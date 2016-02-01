@@ -1,8 +1,12 @@
 [package]
-name = "iron"
+name = "iron_api_fun"
 version = "0.1.0"
 authors = ["Bryan Mytko <bryanmytko@gmail.com>"]
 
 [dependencies]
 iron = "*"
 router = "*"
+serde = "*"
+serde_json = "*"
+serde_macros = "*"
+
